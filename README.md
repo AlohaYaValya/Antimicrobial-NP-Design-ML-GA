@@ -1,5 +1,7 @@
 # Code for "Targeted Antimicrobial Nanoparticles Design Using Machine Learning Reinforced Genetic Algorithm"
-# Master’s Thesis by Valentina A. Bocharova
+## Master’s Thesis by Valentina A. Bocharova
+### Supervisor: Dr. Vladimir V. Vinogradov
+### Consultant: Susan Jyakhwo
 
 ## Abstract
 Microbial infections caused by bacteria, viruses, fungi, and parasites pose significant healthcare challenges due to their ability to cause diverse diseases and adapt to antimicrobial agents. To address antimicrobial resistance, we propose a novel approach using a machine learning (ML) reinforced genetic algorithm (GA) to discover selective antimicrobial nanoparticles (NPs). The aim of this study is to develop an efficient ML reinforced GA to identify antimicrobial NPs that selectively target pathogenic microorganisms while minimizing harm to probiotic strains and host cells.
